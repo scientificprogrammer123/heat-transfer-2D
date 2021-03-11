@@ -1,0 +1,195 @@
+           1 l2 norm error / #elements:   2.5760050    
+           2 l2 norm error / #elements:   1.9194826    
+           3 l2 norm error / #elements:   1.1041722    
+           4 l2 norm error / #elements:   1.0029705    
+           5 l2 norm error / #elements:  0.72291118    
+           6 l2 norm error / #elements:  0.68658310    
+           7 l2 norm error / #elements:  0.53908604    
+           8 l2 norm error / #elements:  0.52097005    
+           9 l2 norm error / #elements:  0.42838258    
+          10 l2 norm error / #elements:  0.41778126    
+          11 l2 norm error / #elements:  0.35388783    
+          12 l2 norm error / #elements:  0.34703267    
+          13 l2 norm error / #elements:  0.30019516    
+          14 l2 norm error / #elements:  0.29541600    
+          15 l2 norm error / #elements:  0.25955680    
+          16 l2 norm error / #elements:  0.25600871    
+          17 l2 norm error / #elements:  0.22760436    
+          18 l2 norm error / #elements:  0.22481945    
+          19 l2 norm error / #elements:  0.20167941    
+          20 l2 norm error / #elements:  0.19938174    
+          21 l2 norm error / #elements:  0.18007916    
+          22 l2 norm error / #elements:  0.17810090    
+          23 l2 norm error / #elements:  0.16167735    
+          24 l2 norm error / #elements:  0.15991475    
+          25 l2 norm error / #elements:  0.14571369    
+          26 l2 norm error / #elements:  0.14410524    
+          27 l2 norm error / #elements:  0.13166717    
+          28 l2 norm error / #elements:  0.13017662    
+          29 l2 norm error / #elements:  0.11917484    
+          30 l2 norm error / #elements:  0.11778235    
+          31 l2 norm error / #elements:  0.10797925    
+          32 l2 norm error / #elements:  0.10667349    
+          33 l2 norm error / #elements:  9.78918746E-02
+          34 l2 norm error / #elements:  9.66671407E-02
+          35 l2 norm error / #elements:  8.87706876E-02
+          36 l2 norm error / #elements:  8.76243412E-02
+          37 l2 norm error / #elements:  8.05040002E-02
+          38 l2 norm error / #elements:  7.94347599E-02
+          39 l2 norm error / #elements:  7.30025843E-02
+          40 l2 norm error / #elements:  7.20074251E-02
+          41 l2 norm error / #elements:  6.61912560E-02
+          42 l2 norm error / #elements:  6.52676821E-02
+          43 l2 norm error / #elements:  6.00039437E-02
+          44 l2 norm error / #elements:  5.91497608E-02
+          45 l2 norm error / #elements:  5.43843471E-02
+          46 l2 norm error / #elements:  5.35961203E-02
+          47 l2 norm error / #elements:  4.92803566E-02
+          48 l2 norm error / #elements:  4.85556573E-02
+          49 l2 norm error / #elements:  4.46467064E-02
+          50 l2 norm error / #elements:  4.39815074E-02
+          51 l2 norm error / #elements:  4.04408723E-02
+          52 l2 norm error / #elements:  3.98321524E-02
+          53 l2 norm error / #elements:  3.66251431E-02
+          54 l2 norm error / #elements:  3.60683352E-02
+          55 l2 norm error / #elements:  3.31642106E-02
+          56 l2 norm error / #elements:  3.26560028E-02
+          57 l2 norm error / #elements:  3.00257597E-02
+          58 l2 norm error / #elements:  2.95626689E-02
+          59 l2 norm error / #elements:  2.71811597E-02
+          60 l2 norm error / #elements:  2.67592799E-02
+          61 l2 norm error / #elements:  2.46036574E-02
+          62 l2 norm error / #elements:  2.42194105E-02
+          63 l2 norm error / #elements:  2.22678706E-02
+          64 l2 norm error / #elements:  2.19187904E-02
+          65 l2 norm error / #elements:  2.01525539E-02
+          66 l2 norm error / #elements:  1.98349003E-02
+          67 l2 norm error / #elements:  1.82366874E-02
+          68 l2 norm error / #elements:  1.79484412E-02
+          69 l2 norm error / #elements:  1.65018532E-02
+          70 l2 norm error / #elements:  1.62401777E-02
+          71 l2 norm error / #elements:  1.49313696E-02
+          72 l2 norm error / #elements:  1.46937054E-02
+          73 l2 norm error / #elements:  1.35096973E-02
+          74 l2 norm error / #elements:  1.32943178E-02
+          75 l2 norm error / #elements:  1.22226104E-02
+          76 l2 norm error / #elements:  1.20274639E-02
+          77 l2 norm error / #elements:  1.10581070E-02
+          78 l2 norm error / #elements:  1.08808894E-02
+          79 l2 norm error / #elements:  1.00038210E-02
+          80 l2 norm error / #elements:  9.84351244E-03
+          81 l2 norm error / #elements:  9.05021373E-03
+          82 l2 norm error / #elements:  8.90474953E-03
+          83 l2 norm error / #elements:  8.18694755E-03
+          84 l2 norm error / #elements:  8.05552024E-03
+          85 l2 norm error / #elements:  7.40618445E-03
+          86 l2 norm error / #elements:  7.28682848E-03
+          87 l2 norm error / #elements:  6.69975998E-03
+          88 l2 norm error / #elements:  6.59144484E-03
+          89 l2 norm error / #elements:  6.06080238E-03
+          90 l2 norm error / #elements:  5.96225075E-03
+          91 l2 norm error / #elements:  5.48237003E-03
+          92 l2 norm error / #elements:  5.39348461E-03
+          93 l2 norm error / #elements:  4.95919632E-03
+          94 l2 norm error / #elements:  4.87872027E-03
+          95 l2 norm error / #elements:  4.48561413E-03
+          96 l2 norm error / #elements:  4.41327551E-03
+          97 l2 norm error / #elements:  4.05723555E-03
+          98 l2 norm error / #elements:  3.99220083E-03
+          99 l2 norm error / #elements:  3.67009430E-03
+         100 l2 norm error / #elements:  3.61104566E-03
+         101 l2 norm error / #elements:  3.31966206E-03
+         102 l2 norm error / #elements:  3.26615595E-03
+         103 l2 norm error / #elements:  3.00295954E-03
+         104 l2 norm error / #elements:  2.95439945E-03
+         105 l2 norm error / #elements:  2.71595712E-03
+         106 l2 norm error / #elements:  2.67252699E-03
+         107 l2 norm error / #elements:  2.45671021E-03
+         108 l2 norm error / #elements:  2.41753249E-03
+         109 l2 norm error / #elements:  2.22218502E-03
+         110 l2 norm error / #elements:  2.18649604E-03
+         111 l2 norm error / #elements:  2.00998690E-03
+         112 l2 norm error / #elements:  1.97789213E-03
+         113 l2 norm error / #elements:  1.81803294E-03
+         114 l2 norm error / #elements:  1.78894110E-03
+         115 l2 norm error / #elements:  1.64453860E-03
+         116 l2 norm error / #elements:  1.61839148E-03
+         117 l2 norm error / #elements:  1.48718478E-03
+         118 l2 norm error / #elements:  1.46391767E-03
+         119 l2 norm error / #elements:  1.34542189E-03
+         120 l2 norm error / #elements:  1.32372091E-03
+         121 l2 norm error / #elements:  1.21709600E-03
+         122 l2 norm error / #elements:  1.19748525E-03
+         123 l2 norm error / #elements:  1.10081199E-03
+         124 l2 norm error / #elements:  1.08310999E-03
+         125 l2 norm error / #elements:  9.95606650E-04
+         126 l2 norm error / #elements:  9.79895936E-04
+         127 l2 norm error / #elements:  9.00421408E-04
+         128 l2 norm error / #elements:  8.86298832E-04
+         129 l2 norm error / #elements:  8.14385363E-04
+         130 l2 norm error / #elements:  8.01926071E-04
+         131 l2 norm error / #elements:  7.36485235E-04
+         132 l2 norm error / #elements:  7.25075195E-04
+         133 l2 norm error / #elements:  6.66259206E-04
+         134 l2 norm error / #elements:  6.55947952E-04
+         135 l2 norm error / #elements:  6.02866348E-04
+         136 l2 norm error / #elements:  5.93098812E-04
+         137 l2 norm error / #elements:  5.45443734E-04
+         138 l2 norm error / #elements:  5.36226959E-04
+         139 l2 norm error / #elements:  4.93515981E-04
+         140 l2 norm error / #elements:  4.84894816E-04
+         141 l2 norm error / #elements:  4.46377933E-04
+         142 l2 norm error / #elements:  4.38599847E-04
+         143 l2 norm error / #elements:  4.04038001E-04
+         144 l2 norm error / #elements:  3.96531017E-04
+         145 l2 norm error / #elements:  3.65461397E-04
+         146 l2 norm error / #elements:  3.58829333E-04
+         147 l2 norm error / #elements:  3.30192241E-04
+         148 l2 norm error / #elements:  3.24662513E-04
+         149 l2 norm error / #elements:  2.98562489E-04
+         150 l2 norm error / #elements:  2.93865276E-04
+         151 l2 norm error / #elements:  2.70228484E-04
+         152 l2 norm error / #elements:  2.65501556E-04
+         153 l2 norm error / #elements:  2.44523078E-04
+         154 l2 norm error / #elements:  2.40075344E-04
+         155 l2 norm error / #elements:  2.21157374E-04
+         156 l2 norm error / #elements:  2.17315741E-04
+         157 l2 norm error / #elements:  1.99863978E-04
+         158 l2 norm error / #elements:  1.96515190E-04
+         159 l2 norm error / #elements:  1.80904142E-04
+         160 l2 norm error / #elements:  1.77972368E-04
+         161 l2 norm error / #elements:  1.63452743E-04
+         162 l2 norm error / #elements:  1.60971991E-04
+         163 l2 norm error / #elements:  1.48004125E-04
+         164 l2 norm error / #elements:  1.45326194E-04
+         165 l2 norm error / #elements:  1.34063608E-04
+         166 l2 norm error / #elements:  1.31385634E-04
+         167 l2 norm error / #elements:  1.21130572E-04
+         168 l2 norm error / #elements:  1.18806507E-04
+         169 l2 norm error / #elements:  1.09856279E-04
+         170 l2 norm error / #elements:  1.07283653E-04
+         171 l2 norm error / #elements:  9.92053974E-05
+ F:
+   0.0000000       0.0000000       0.0000000       0.0000000       0.0000000       0.0000000       0.0000000       0.0000000       0.0000000       0.0000000       0.0000000    
+   0.0000000      0.99928629       1.9986408       2.9981315       3.9978006       4.9976902       5.9977999       6.9981308       7.9986410       8.9992857       10.000000    
+   0.0000000       1.9986408       3.9974174       5.9964414       7.9958215       9.9956007       11.995820       13.996441       15.997417       17.998642       20.000000    
+   0.0000000       2.9981313       5.9964409       8.9951086       11.994242       14.993952       17.994240       20.995106       23.996441       26.998131       30.000002    
+   0.0000000       3.9978008       7.9958220       11.994242       15.993240       19.992882       23.993237       27.994244       31.995819       35.997803       40.000000    
+   0.0000000       4.9976902       9.9956017       14.993954       19.992882       24.992523       29.992882       34.993950       39.995605       44.997688       50.000000    
+   0.0000000       5.9978008       11.995821       17.994242       23.993240       29.992884       35.993237       41.994244       47.995819       53.997803       60.000004    
+   0.0000000       6.9981313       13.996442       20.995108       27.994244       34.993950       41.994244       48.995106       55.996441       62.998131       70.000000    
+   0.0000000       7.9986410       15.997417       23.996443       31.995819       39.995605       47.995819       55.996445       63.997421       71.998642       80.000000    
+   0.0000000       8.9992867       17.998642       26.998131       35.997803       44.997688       53.997803       62.998131       71.998642       80.999283       90.000000    
+   0.0000000       10.000000       20.000000       30.000002       40.000000       50.000000       60.000004       70.000000       80.000000       90.000000       100.00000    
+ Fexact:
+   0.0000000       0.0000000       0.0000000       0.0000000       0.0000000       0.0000000       0.0000000       0.0000000       0.0000000       0.0000000       0.0000000    
+   0.0000000       1.0000000       2.0000000       3.0000000       4.0000000       5.0000000       6.0000000       7.0000000       8.0000000       9.0000000       10.000000    
+   0.0000000       2.0000000       4.0000000       6.0000000       8.0000000       10.000000       12.000000       14.000000       16.000000       18.000000       20.000000    
+   0.0000000       3.0000002       6.0000005       9.0000010       12.000001       15.000001       18.000002       21.000002       24.000002       27.000002       30.000002    
+   0.0000000       4.0000000       8.0000000       12.000000       16.000000       20.000000       24.000000       28.000000       32.000000       36.000000       40.000000    
+   0.0000000       5.0000000       10.000000       15.000001       20.000000       25.000000       30.000002       35.000000       40.000000       45.000000       50.000000    
+   0.0000000       6.0000005       12.000001       18.000002       24.000002       30.000002       36.000004       42.000004       48.000004       54.000004       60.000004    
+   0.0000000       7.0000000       14.000000       21.000000       28.000000       35.000000       42.000000       49.000000       56.000000       63.000004       70.000000    
+   0.0000000       8.0000000       16.000000       24.000000       32.000000       40.000000       48.000000       56.000000       64.000000       72.000000       80.000000    
+   0.0000000       9.0000000       18.000000       27.000002       36.000000       45.000000       54.000004       63.000000       72.000000       81.000000       90.000000    
+   0.0000000       10.000000       20.000000       30.000002       40.000000       50.000000       60.000004       70.000000       80.000000       90.000000       100.00000    
