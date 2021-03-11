@@ -1,4 +1,4 @@
-# heat-transfer-2D
+# heat-transfer_2D
 
 This is a fortran90 program to evaluate 2-D heat transfer using Laplace equation, 
 via the Jacobi method.
