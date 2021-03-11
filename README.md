@@ -37,3 +37,6 @@ The exact solution of this equation is:
   
 At the end, the program outputs the number of iterations taken, and the value
 of the numerically computed solution and the exact solution.
+
+To run the program, go to a termina and type: gfortran xxx.f90
+This program has been verified on a computer running Scientific Linux 6.9.
